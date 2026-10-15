@@ -1,10 +1,10 @@
-<h1 align="center">Pyr0zen <sub><sup>· Sticky</sup></sub></h1>
+hi
 
-<p align="center"><i>Think of a pomelo.</i></p>
+think of a pomelo.
 
----
+<p align="center"><img src="pomelo.jpg" alt="a pomelo" width="280"></p>
 
-## Featured
+### currently building
 
 ### [Juxtopposed's VLC Redesign](https://github.com/Pyr0zen/vlc-redesign-juxtopposed)
 <a href="https://github.com/Pyr0zen/vlc-redesign-juxtopposed">
@@ -13,11 +13,11 @@
 
 Juxtopposed's VLC Redesign, fully working on real VLC 4. Not a skin: new player, sidebars, library and settings, same VLC engine.
 
-Design by [Juxtopposed](https://github.com/Juxtopposed). Built by Pyr0zen.
+Design by [Juxtopposed](https://github.com/Juxtopposed). Built by me.
 
 🔗 https://github.com/Pyr0zen/vlc-redesign-juxtopposed
 
-## Projects
+### projects
 
 ### [Stoople](https://stoople.app)
 <a href="https://stoople.app">
