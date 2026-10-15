@@ -1,6 +1,6 @@
 <h1 align="center">Pyr0zen <sub><sup>· Sticky</sup></sub></h1>
 
-<p align="center"><i>Building things that look good and actually work.</i></p>
+<p align="center"><i>Think of a pomelo.</i></p>
 
 ---
 
