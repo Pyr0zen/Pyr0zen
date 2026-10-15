@@ -1,6 +1,6 @@
-hi
 
-think of a pomelo.
+
+Think of a pomelo.
 
 <p align="center"><img src="pomelo.jpg" alt="a pomelo" width="280"></p>
 
